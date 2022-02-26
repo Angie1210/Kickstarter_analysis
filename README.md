@@ -24,7 +24,7 @@ Analyzing Kickstarter campaigns.
 ## Results
 ### Conclusions of Theater Outcomes by Launch Date.
    1) The most favorable month to launch the campaign is May, it is the one with more successful campaigns and the one with the higher ratio, having around 2/3 of successful campaigns, so if you launch in this month you will have like 66% chances of having a successful campaign. If you can't make it by May then June will be your second-best option. The number failed campaigns are in a range between 30 and 50 throughout the year, there's no big difference so we just need to focus on the peaks of the successful line.
-   2) We need to avoid the last quarter of the year to launch, as we can see there's a small difference between the number of successful and failed campaigns, especially December where you have the same chance to fail or succeed, and it's the month with the lowest successful campaign. ![image](https://user-
+   2) We need to avoid the last quarter of the year to launch, as we can see there's a small difference between the number of successful and failed campaigns, especially December where you have the same chance to fail or succeed, and it's the month with the lowest successful campaign. 
    
 ### Conclusion about Outcomes based on Goals.
 	The campaigns with the lowest amount goals are more likely to reach their goal, over 70% of the campaigns under $4,999 are successful. In general, we can see a negative correlation between the amount-goal and the outcomes, with an exception for the campaigns raising between $35,000 and $39,999 there's again a 67% chance that you reach your goal, but there are only 6 campaigns on this range the sample is small. Louise's campaign is over $10,000 so her probability of success is 54%.
